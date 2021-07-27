@@ -31,10 +31,10 @@
 - 기획 의도 설명
 
 - 발표
-  1. Hello Jquery! (jQuery)
-  2. 디버깅 조지기 (디버깅)
-  3. history | grep 키보드 (키보드)
-  4. 히오스 (오라클 함수)
+  1. Hello Jquery! (jQuery) - [발표 슬라이드](./slides/01_Hello_jquery.pptx) / [발표자료](./slides/data/01_Hello_jquery.html)
+  2. 디버깅 조지기 (디버깅) - [발표 슬라이드](./slides/02_디버깅조지기.pptx)
+  3. history | grep 키보드 (키보드) - [발표 슬라이드](./slides/03_history_grep_키보드.pptx)
+  4. 히오스 (오라클 함수) - [발표 슬라이드](./slides/04_히오스.pptx)
 
 - 마침
 
